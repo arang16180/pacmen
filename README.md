@@ -11,4 +11,5 @@ In order to run this project it is only necessary to open index.html in the navi
 - [ ] the building of an scenario
 - [ ] score of the game
 
+## License information
 [MIT License](https://choosealicense.com/licenses/mit/)
