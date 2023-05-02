@@ -1,4 +1,6 @@
 # pacmen
 
 
-https://choosealicense.com/licenses/mit/
+
+
+[MIT LICENSE](https://choosealicense.com/licenses/mit/)
